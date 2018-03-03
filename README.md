@@ -13,3 +13,6 @@
 ## Imágenes
 - [Visualhunt](https://visualhunt.com/): High quality free stock photos in one place. 354 Million Free Stock Photos.
 - [Unsplash](https://unsplash.com/): Unsplash es uno de los mejores sitios de fotografía del mundo con fotos hermosas de alta calidad que son totalmente gratuitas y libre de uso.
+
+## Herramientas
+- [Modernizr](https://modernizr.com/): Modernizr te dice qué características de HTML, CSS y JavaScript soporta el navegador del usuario.
