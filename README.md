@@ -16,3 +16,6 @@
 
 ## Herramientas
 - [Modernizr](https://modernizr.com/): Modernizr te dice qué características de HTML, CSS y JavaScript soporta el navegador del usuario.
+
+## Animaciones
+- [Scrollreveal](https://github.com/jlmakes/scrollreveal): Se utiliza para integrar facilmente animaciones asociadas al scroll
