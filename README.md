@@ -19,3 +19,4 @@
 
 ## Animaciones
 - [Scrollreveal](https://github.com/jlmakes/scrollreveal): Se utiliza para integrar facilmente animaciones asociadas al scroll
+- [Animate.css](https://daneden.github.io/animate.css/): animate.css es un conjunto de animaciones geniales y divertidas para usarlas en tus proyectos. Ideal para enfatizar, páginas de inicio, controles deslizantes, etc...
