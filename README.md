@@ -2,6 +2,7 @@
 
 ## Javascript
 - [Morphext](http://morphext.fyianlai.com/): Te permite hacer **Morphing** con una serie de palabras separadas por comas.
+- [Slick](http://kenwheeler.github.io/slick/): Con slick puede construir todo tipo carruseles.
 
 ## CSS
 - [uiGradients](https://uigradients.com): Montones de gradientes CSS prediseñados que puedes usar.
