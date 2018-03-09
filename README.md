@@ -16,8 +16,8 @@
 - [Visualhunt](https://visualhunt.com/): High quality free stock photos in one place. 354 Million Free Stock Photos.
 - [Unsplash](https://unsplash.com/): Unsplash es uno de los mejores sitios de fotografía del mundo con fotos hermosas de alta calidad que son totalmente gratuitas y libre de uso.
 
-## Herramientas
-- [Modernizr](https://modernizr.com/): Modernizr te dice qué características de HTML, CSS y JavaScript soporta el navegador del usuario.
+## Optimización
+- [Modernizr](https://modernizr.com/): Modernizr te permite saber qué características de HTML, CSS y JavaScript soporta el navegador del usuario.
 
 ## Animaciones
 - [Scrollreveal](https://github.com/jlmakes/scrollreveal): Se utiliza para integrar facilmente animaciones asociadas al scroll
@@ -25,3 +25,6 @@
 
 ## Lenguajes de templates
 - [Liquid/Jekill](https://learn.cloudcannon.com/jekyll/introduction-to-liquid/): Guía completa de liquid y su uso en Jekill.
+
+## Herramientas de desarrollo
+-[Stackblitz](https://stackblitz.com/): Te permite programar en el navegador aplicaciones de Angular, React, Ionic, etc...
