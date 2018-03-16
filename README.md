@@ -20,9 +20,9 @@
 - [Modernizr](https://modernizr.com/): Modernizr te permite saber qué características de HTML, CSS y JavaScript soporta el navegador del usuario.
 
 ## Animaciones y efectos
-- [Scrollreveal](https://github.com/jlmakes/scrollreveal): Se utiliza para integrar facilmente animaciones asociadas al scroll
+- [Scrollreveal](https://github.com/jlmakes/scrollreveal): Se utiliza para integrar fácilmente animaciones asociadas al scroll
 - [Animate.css](https://daneden.github.io/animate.css/): animate.css es un conjunto de animaciones geniales y divertidas para usarlas en tus proyectos. Ideal para enfatizar, páginas de inicio, controles deslizantes, etc...
-- [Jarallax](https://github.com/nk-o/jarallax): Suave efecto de parallax para imágenes de fondo, videos y elementos en línea. Código en JavaScript puro sin dependencias + jQuery compatible. Compatible con videos de YouTube, Vimeo y locales.
+- [Jarallax](https://github.com/nk-o/jarallax): Suave efecto de parallax para imágenes de fondo, vídeos y elementos en línea. Código en JavaScript puro sin dependencias + jQuery compatible. Compatible con vídeos de YouTube, Vimeo y locales.
 
 ## Lenguajes de templates
 - [Liquid/Jekill](https://learn.cloudcannon.com/jekyll/introduction-to-liquid/): Guía completa de liquid y su uso en Jekill.
