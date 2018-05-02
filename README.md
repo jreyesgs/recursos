@@ -30,3 +30,6 @@
 
 ## Herramientas de desarrollo
 - [Stackblitz](https://stackblitz.com/): Te permite programar en el navegador aplicaciones de Angular, React, Ionic, etc...
+
+## Webs de referencia
+- [css-tricks](https://css-tricks.com/): El mejor sitio para seguir las tendencias en desarrollo web a través de tutoriales y ejemplos.
