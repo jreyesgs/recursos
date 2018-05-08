@@ -8,6 +8,9 @@
 - [uiGradients](https://uigradients.com): Montones de gradientes CSS prediseñados que puedes usar.
 - [CSS Grid Garden](http://cssgridgarden.com): Es un juego que te permite aprender y practicar con funciona CSS Grid.
 
+# SASS
+- [Sass Things for Links](https://css-tricks.com/snippets/sass/sass-things-links/): Usar variables como selectores.
+
 ## Iconos
 - [Devicon](http://konpa.github.io/devicon/): Colección de iconos de tecnologías y herramientas de desarrollo y diseño web.
 - [Fontawesome 4.7 Cheat Sheets](https://fontawesome.bootstrapcheatsheets.com/): Todos los iconos de la versión 4.7 de Fontawesome.
@@ -33,3 +36,5 @@
 
 ## Webs de referencia
 - [css-tricks](https://css-tricks.com/): El mejor sitio para seguir las tendencias en desarrollo web a través de tutoriales y ejemplos.
+
+
