@@ -20,6 +20,9 @@
 - [Visualhunt](https://visualhunt.com/): High quality free stock photos in one place. 354 Million Free Stock Photos.
 - [Unsplash](https://unsplash.com/): Unsplash es uno de los mejores sitios de fotografía del mundo con fotos hermosas de alta calidad que son totalmente gratuitas y libre de uso.
 
+## Vídeo
+- [Plyr](https://github.com/sampotts/plyr): A simple, lightweight, accessible and customizable HTML5, YouTube and Vimeo media player that supports modern browsers.
+
 ## Optimización
 - [Modernizr](https://modernizr.com/): Modernizr te permite saber qué características de HTML, CSS y JavaScript soporta el navegador del usuario.
 
