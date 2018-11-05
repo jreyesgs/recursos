@@ -15,6 +15,7 @@
 - [Devicon](http://konpa.github.io/devicon/): Colección de iconos de tecnologías y herramientas de desarrollo y diseño web.
 - [Fontawesome 4.7 Cheat Sheets](https://fontawesome.bootstrapcheatsheets.com/): Todos los iconos de la versión 4.7 de Fontawesome.
 - [Favicon Generator](https://www.favicon-generator.org/) Generador de favicons con metas en todas sus versiones.
+- [Entypo](http://www.entypo.com/) 411 carefully crafted premium pictograms
 
 ## Imágenes
 - [Visualhunt](https://visualhunt.com/): High quality free stock photos in one place. 354 Million Free Stock Photos.
