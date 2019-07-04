@@ -4,6 +4,7 @@
 - [Morphext](http://morphext.fyianlai.com/): Te permite hacer **Morphing** con una serie de palabras separadas por comas.
 - [Slick](http://kenwheeler.github.io/slick/): Con slick puede construir todo tipo carruseles.
 - [Isotope](https://isotope.metafizzy.co/): Isotope es un plugin de jQuery que nos permite implementar diseños dinámicos que no se pueden implementar únicamente con CSS. 
+- [macyjs](http://macyjs.com/): Igual que Isotope pero permite uso comercial.
 
 ## CSS
 - [uiGradients](https://uigradients.com): Montones de gradientes CSS prediseñados que puedes usar.
