@@ -4,12 +4,14 @@
 - [Morphext](http://morphext.fyianlai.com/): Te permite hacer **Morphing** con una serie de palabras separadas por comas.
 - [Slick](http://kenwheeler.github.io/slick/): Con slick puede construir todo tipo carruseles.
 - [Isotope](https://isotope.metafizzy.co/): Isotope es un plugin de jQuery que nos permite implementar diseños dinámicos que no se pueden implementar únicamente con CSS. 
-- [macyjs](http://macyjs.com/): Igual que Isotope pero permite uso comercial.
+- [muuri](https://haltu.github.io/muuri/): Igual que Isotope pero permite uso comercial.
+- [macyjs](http://macyjs.com/): Masonry layout library.
 
 ## CSS
 - [uiGradients](https://uigradients.com): Montones de gradientes CSS prediseñados que puedes usar.
 - [CSS Grid Garden](http://cssgridgarden.com): Es un juego que te permite aprender y practicar con funciona CSS Grid.
-- [cubic-bezier](http://cubic-bezier.com): Para crear graficamente animaciones cubic-bezier de CSS
+- [cubic-bezier](http://cubic-bezier.com): Para crear graficamente animaciones cubic-bezier de CSS.
+
 
 # SASS
 - [Sass Things for Links](https://css-tricks.com/snippets/sass/sass-things-links/): Usar variables como selectores.
